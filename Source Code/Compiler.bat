@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --console  "boot.py"
