@@ -6,7 +6,7 @@ To test and compile the python file you need:
 - Auto-py-to-exe
 
 after you downloaded that run the compiler bat script 
-in the dist folder create a folder with the name "desktop"
+in the dist and source code folder, create a folder with the name "desktop"
 
 (You're free to modify the code, but don't use it for commercial use)
 
@@ -18,6 +18,6 @@ Para probar y compilar el archivo python que necesita:
 - Auto-py-to-exe
 
 Después de descargarlo, ejecute el comando BAT "compiler".
-En la carpeta DIST, cree una carpeta con el nombre "Desktop"
+En la carpeta DIST y del código fuente, cree una carpeta con el nombre "Desktop"
 
 (Usted es libre de modificar el código, pero no lo use para uso comercial)
